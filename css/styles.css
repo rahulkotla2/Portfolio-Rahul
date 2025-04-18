@@ -399,7 +399,7 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 150px;
 }
 
 .home__data {
@@ -608,12 +608,12 @@ img {
 }
 
 /* skills 1 */
-.skills__html {
+.skills__vue {
   width: 90%;
 }
 
-.skills__css {
-  width: 80%;
+.skills_html_css {
+  width: 90%;
 }
 
 .skills__js {
@@ -628,33 +628,33 @@ img {
 /* Skills 2 */
 
 .skills__mongo {
-  width: 20%;
+  width: 60%;
 }
 
-.skills__node {
-  width: 20%;
+.skills__fastapi {
+  width: 70%;
 }
 
-.skills__expressjs {
-  width: 20%;
-}
-
-.skills__python {
+.skills__mysql {
   width: 40%;
+}
+
+.skills__flask {
+  width: 60%;
 }
 
 /* skills 3 */
 
-.skills__figma {
-  width: 20%;
+.skills__docker {
+  width: 70%;
 }
 
-.skills__unsplash {
-  width: 30%;
+.skills__gcp {
+  width: 50%;
 }
 
-.skills__photoshop {
-  width: 35%;
+.skills__pipeline {
+  width: 40%;
 }
 
 .skills__close .skills__list {
